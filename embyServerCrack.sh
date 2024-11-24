@@ -1,9 +1,9 @@
 #!/bin/sh
 
 VER=1.0
-USERNAME="qcgzxw"
-PROJECT="https://github.com/qcgzxw/emby-server-crack"
-PROJECT_NAME="emby-server-crack"
+USERNAME="spitkov"
+PROJECT="https://github.com/spitkov/embycrack"
+PROJECT_NAME="embycrack"
 BRANCH="main"
 GITHUB_CDN="https://cdn.jsdelivr.net/gh"
 CRACK_FILE_DIR="${GITHUB_CDN}/${USERNAME}/${PROJECT_NAME}@${BRANCH}/crack"
